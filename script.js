@@ -20,7 +20,7 @@
             
                var duration = {
                         from: '2020-10-31 00:00:00',
-                        to: '2020-10-31 07:00:00',
+                        to: '2020-10-31 06:00:00',
                         custom_from: '2020-10-31 00:00:00'
                 };
                     var mometizedTo = moment(duration.to, 'YYYY-MM-DD HH:mm:ss');
